@@ -1,0 +1,35 @@
+.all {
+	margin: 0 auto;
+	width: 500px;
+	background: #c9d6c9;
+	padding: 20px;
+	border: 2px solid black;
+	border-radius: 20px;
+	box-shadow: 0 0 20px;
+	box-sizing: border-box;
+	margin-top: 50px;
+}
+.one{
+	margin: 0 auto;
+	padding: 0;
+	text-align: center;
+	
+}
+
+.photo{
+	margin: 31px;
+}
+
+p{
+	font-weight: bold;
+	font-size: 25px;
+
+}
+button{
+	margin: 30px;
+	padding: 15px 15px;
+}
+input{
+	margin-top: 30px;
+	padding: 15px 15px;
+}
